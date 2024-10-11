@@ -1,6 +1,6 @@
 # ErrorPropagation Package
 
-Este paquete proporciona funciones para la propagación de errores utilizando MATLAB.
+Este paquete en MATLAB proporciona funciones para la propagación de errores utilizando un promedio simple de errores.
 
 ## Organización del paquete
 ```
