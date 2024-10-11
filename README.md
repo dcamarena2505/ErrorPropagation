@@ -26,9 +26,12 @@ f = @(x) x(1)*x(2)/(x(1)+x(2));
 ```
 
 ## Versión
-**Versión 1.0**
-Desarrollado al 11/10/2024
-Correo victor.camarena@upch.pe
+
+**Versión 1.0** 
+
+Desarrollado al 11/10/2024 
+
+Correo victor.camarena@upch.pe 
 
 Revisado al 11/10/2024: 
 - Evaluar la inclusión del uso de funciones en forma simbólica (actualmente se puede manejar con cálculos previos)
