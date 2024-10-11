@@ -36,3 +36,4 @@ Correo victor.camarena@upch.pe
 Revisado al 11/10/2024: 
 - Evaluar la inclusión del uso de funciones en forma simbólica (actualmente se puede manejar con cálculos previos)
 - Adicionar propagación de errores con la norma cuadrática (actualmente solo considera la norma de la suma)
+- Adicionar documentación sobre la teoría matemática empleada
